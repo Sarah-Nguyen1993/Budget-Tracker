@@ -5,6 +5,8 @@ Buget Tracker is a application that allows user to track their withdrawals and d
 User just simply put name of a transaction and transaction amount into input fields; then hit Add funds or Subtract Funds button. All the transactions will be shown on a transaction chart.
 ## Demo
 ![demo](bugetTracker.gif)
+## Deployed Website 
+https://keepyourbudgetontrack.herokuapp.com/
 ## Technology
 * IndexedDB
 * MongoDB
